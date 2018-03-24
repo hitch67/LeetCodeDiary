@@ -29,6 +29,6 @@ int lengthOfLongestSubstring(string s) {
             substring += s[i];
         }
         step ++;
-        }
+    }
     return max_length;
 }
